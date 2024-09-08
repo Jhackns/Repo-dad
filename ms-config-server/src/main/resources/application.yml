@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ms-upeu/ProyectoMS.git
+          uri: https://github.com/Jhackns/Repo-dad.git
           searchPaths: config-data
           #username:
           #password:
